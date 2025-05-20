@@ -116,7 +116,9 @@ DB에서 새로 업데이트한 유저 정보가 추가된것을 확인할 수 �
 ## 결과
 
 - 사용자 정보 저장 성공
-  <img width="429" alt="DB 확인" src="https://github.com/user-attachments/assets/c8e5dc45-09e5-40ad-bf63-9a9557fcb237" />
+  
+<img width="429" alt="DB 확인" src="https://github.com/user-attachments/assets/c8e5dc45-09e5-40ad-bf63-9a9557fcb237" />
 
 - 사용자 목록 조회 성공
-  <img width="436" alt="DB 가져와 :db에서 확인" src="https://github.com/user-attachments/assets/6a3ff6f0-8d3e-4d37-b326-867d9dafb763" />
+  
+<img width="436" alt="DB 가져와 :db에서 확인" src="https://github.com/user-attachments/assets/6a3ff6f0-8d3e-4d37-b326-867d9dafb763" />
