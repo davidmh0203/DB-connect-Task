@@ -1,8 +1,6 @@
 # 사용자 정보 저장을 위한 DB 연동 실습
 
 
-<img width="967" alt="스크린샷 2025-05-20 오후 5 42 00" src="https://github.com/user-attachments/assets/86a1ee22-23a0-4f3c-b8bb-565eb9934670" />
-
 ---
 
 ## 목적
@@ -61,7 +59,7 @@ CREATE TABLE users (
 1. Postman 접속 → `New → HTTP request` 버튼 클릭  
 <img width="1278" alt="postman 첫 화면" src="https://github.com/user-attachments/assets/b0ae9a5e-f7a2-459a-ba3b-d8ed3d295ddf" />
 <img width="1278" alt="postman http UI" src="https://github.com/user-attachments/assets/7dca1c3d-5ff3-485d-bc76-938995426f51" />
-
+<img width="967" alt="스크린샷 2025-05-20 오후 5 42 00" src="https://github.com/user-attachments/assets/86a1ee22-23a0-4f3c-b8bb-565eb9934670" />
 2. 요청 타입을 `POST`로 설정  <img width="1278" alt="postman get-  변경" src="https://github.com/user-attachments/assets/66a7fa66-5839-4f73-a7ed-fbb181688257" />
 
 3. URL 입력: `http://localhost:3000/user`  <img width="1278" alt="postman get-  변경" src="https://github.com/user-attachments/assets/c60d1c7c-1f3f-4bef-a7d1-230ed788a22a" />
