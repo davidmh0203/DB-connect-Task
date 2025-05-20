@@ -69,14 +69,16 @@ CREATE TABLE users (
 
 ```json
 {
-  "id": "tester",
-  "pw": "1234"
+  "id": "david1",
+  "pw": "davidmh11"
 }
 ```
 
 6. **[Send]** 버튼을 누르면 `200 OK`와 함께 저장이 성공한 응답을 확인할 수 있습니다.
 <img width="1278" alt="postman post 성공 화면" src="https://github.com/user-attachments/assets/659ed3fa-6b8b-4a2d-ab4c-8ac3a5fa62e2" />
-
+postman post 성공 화면
+<img width="429" alt="DB 확인" src="https://github.com/user-attachments/assets/fa836962-bb88-4548-a5ea-1ba8a79f88c6" />
+DB에서 새로 업데이트한 유저 정보가 추가된것을 확인할 수 있다.
 ---
 
 ## 요약
