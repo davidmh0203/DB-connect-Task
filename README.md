@@ -60,10 +60,13 @@ CREATE TABLE users (
 <img width="1278" alt="postman 첫 화면" src="https://github.com/user-attachments/assets/b0ae9a5e-f7a2-459a-ba3b-d8ed3d295ddf" />
 <img width="1278" alt="postman http UI" src="https://github.com/user-attachments/assets/7dca1c3d-5ff3-485d-bc76-938995426f51" />
 <img width="967" alt="스크린샷 2025-05-20 오후 5 42 00" src="https://github.com/user-attachments/assets/86a1ee22-23a0-4f3c-b8bb-565eb9934670" />
-2. 요청 타입을 `POST`로 설정 
+
+2. 요청 타입을 `POST`로 설정
+   
 3. URL 입력: `http://localhost:3000/user`  <img width="1278" alt="postman get-  변경" src="https://github.com/user-attachments/assets/c60d1c7c-1f3f-4bef-a7d1-230ed788a22a" />
 
-4. 상단 탭 중 `Body → raw → JSON` 선택  <img width="1278" alt="postman post-  body, raw" src="https://github.com/user-attachments/assets/d5d588b9-f596-464f-91ef-d2baaba3016a" />
+4. 상단 탭 중 `Body → raw → JSON` 선택
+<img width="1278" alt="postman post-  body, raw" src="https://github.com/user-attachments/assets/d5d588b9-f596-464f-91ef-d2baaba3016a" />
 
 5. 아래와 같은 JSON 데이터를 입력:
 
