@@ -109,11 +109,14 @@ DB에서 새로 업데이트한 유저 정보가 추가된것을 확인할 수 �
 
 
 - 브라우저 확인  
-![DB json ](https://github.com/user-attachments/assets/01f81d7d-2448-4a68-9e91-086de1ad5c81)
+<img width="436" alt="DB 가져와 :db에서 확인" src="https://github.com/user-attachments/assets/5b941ce4-a958-4721-8653-2925415bc8f3" />
+
 
 
 ## 결과
 
-- 사용자 저장 성공
+- 사용자 정보 저장 성공
+  <img width="429" alt="DB 확인" src="https://github.com/user-attachments/assets/c8e5dc45-09e5-40ad-bf63-9a9557fcb237" />
+
 - 사용자 목록 조회 성공
-- 과제 요구사항 충족 + 캡처 완료
+  <img width="436" alt="DB 가져와 :db에서 확인" src="https://github.com/user-attachments/assets/6a3ff6f0-8d3e-4d37-b326-867d9dafb763" />
