@@ -1,4 +1,4 @@
-# 사용자 정보 저장을 위한 DB 연동 실습
+<img width="967" alt="스크린샷 2025-05-20 오후 5 42 00" src="https://github.com/user-attachments/assets/86a1ee22-23a0-4f3c-b8bb-565eb9934670" /># 사용자 정보 저장을 위한 DB 연동 실습
 
 ---
 
@@ -92,13 +92,18 @@ CREATE TABLE users (
 > 결과 화면 캡처 이미지 (예시)
 
 - POST 요청 성공  
-  ![postman_post](./images/postman_post.png)
 
-- GET 요청 결과  
-  ![postman_get](./images/postman_get.png)
+<img width="1278" alt="postman post 성공 화면" src="https://github.com/user-attachments/assets/0af1b234-2ca8-4e6d-9006-5dfe2186a6aa" />
+
+- GET 요청 결과
+  <img width="967" alt="Get 성공" src="https://github.com/user-attachments/assets/e2202a4c-73d3-441a-a43e-c6efee12ba3a" />
+ 
+
+
 
 - 브라우저 확인  
-  ![browser](./images/browser.png)
+![DB json ](https://github.com/user-attachments/assets/01f81d7d-2448-4a68-9e91-086de1ad5c81)
+
 
 ## 결과
 
